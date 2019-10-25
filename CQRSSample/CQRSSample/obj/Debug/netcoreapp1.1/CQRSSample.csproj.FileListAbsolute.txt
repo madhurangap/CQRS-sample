@@ -1,9 +1,0 @@
-C:\ResearchDevelopments\CQRSSample\CQRSSample\bin\Debug\netcoreapp1.1\CQRSSample.deps.json
-C:\ResearchDevelopments\CQRSSample\CQRSSample\bin\Debug\netcoreapp1.1\CQRSSample.runtimeconfig.json
-C:\ResearchDevelopments\CQRSSample\CQRSSample\bin\Debug\netcoreapp1.1\CQRSSample.runtimeconfig.dev.json
-C:\ResearchDevelopments\CQRSSample\CQRSSample\bin\Debug\netcoreapp1.1\CQRSSample.dll
-C:\ResearchDevelopments\CQRSSample\CQRSSample\bin\Debug\netcoreapp1.1\CQRSSample.pdb
-C:\ResearchDevelopments\CQRSSample\CQRSSample\obj\Debug\netcoreapp1.1\CQRSSample.csprojResolveAssemblyReference.cache
-C:\ResearchDevelopments\CQRSSample\CQRSSample\obj\Debug\netcoreapp1.1\CQRSSample.AssemblyInfo.cs
-C:\ResearchDevelopments\CQRSSample\CQRSSample\obj\Debug\netcoreapp1.1\CQRSSample.dll
-C:\ResearchDevelopments\CQRSSample\CQRSSample\obj\Debug\netcoreapp1.1\CQRSSample.pdb
